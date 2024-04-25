@@ -11,7 +11,7 @@
 [Oo]ut/
 
 # packages
-[Pp]ackages/
+packages/
 
 # dotnet install directory
 .dotnet/
