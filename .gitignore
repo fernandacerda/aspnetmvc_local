@@ -24,3 +24,9 @@ packages/
 
 # Visual Studio debug profile
 **/launchSettings.json
+
+
+# .terraform
+.terraform/*
+.terraform.lock.hcl
+
